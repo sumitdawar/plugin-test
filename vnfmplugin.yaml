@@ -5,4 +5,4 @@ imports:
 plugins:
   vnfmplugin: 
     executor: central_deployment_agent
-    source: vnfmplugin.zip
+    source: https://github.com/sumitdawar/vnfmplugin/archive/master.zip
